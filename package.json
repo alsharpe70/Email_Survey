@@ -1,14 +1,10 @@
 {
-  "name": "server",
+  "name": "email_survey",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines": {
-    "node": "8.1.1",
-    "mpm": " 5.0.3"
-  },
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
